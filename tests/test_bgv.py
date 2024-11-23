@@ -1,6 +1,5 @@
 import logging
 import random
-
 import pytest
 import openfhe as fhe
 
